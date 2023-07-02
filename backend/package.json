@@ -1,0 +1,23 @@
+{
+  "name": "okay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swatikharote/okay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swatikharote/okay/issues"
+  },
+  "homepage": "https://github.com/swatikharote/okay#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
